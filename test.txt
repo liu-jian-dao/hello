@@ -1,0 +1,5 @@
+1、Alt+T打开终端，输入sudo ufw status回车，查看防火墙状态，inactive是关闭，active是开启。
+
+2、使用sudo ufw enable开启防火墙。
+
+3、使用sudo ufw disable关闭防火墙。
